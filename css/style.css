@@ -1,0 +1,51 @@
+header{ 
+    background-color: blue;
+}
+
+
+header li a{
+
+    color: aliceblue;
+} 
+
+.navBar li a {
+
+    text-decoration: none ;
+
+}
+
+
+main {
+    color:black;
+}
+
+main section{
+    background-color: rgb(255, 255, 255);
+}  
+
+.parrafoFrase{
+    background-color: lightblue;
+}
+
+.parrafoQuienessomos{
+    background-color: black;
+    color: aliceblue;
+}
+
+.parrafoMision{
+    background-color: grey;
+}
+
+main h3{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+footer{
+    background-color: blue;
+}
+
+footer p{
+    color: aliceblue;
+}
