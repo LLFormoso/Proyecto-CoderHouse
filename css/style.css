@@ -3,11 +3,6 @@ header{
 }
 
 
-header li a{
-
-    color: aliceblue;
-} 
-
 .navBar li a {
 
     text-decoration: none ;
@@ -24,7 +19,12 @@ main section{
 }  
 
 .parrafoFrase{
-    background-color: lightblue;
+    font-family: ;
+    font-size: large;
+}
+
+.fotoCicuito {
+    font-size: small;
 }
 
 .parrafoQuienessomos{
@@ -49,3 +49,15 @@ footer{
 footer p{
     color: aliceblue;
 }
+
+/* Media query para dispositivos más pequeños */
+@media (max-width: 768px) {
+    /* Estilos específicos para dispositivos con ancho máximo de 768px */
+    
+    }
+
+  /* Media query para dispositivos más grandes */
+    @media (min-width: 992px) {
+    /* Estilos específicos para dispositivos con ancho mínimo de 992px */
+    /* ... */
+    }
